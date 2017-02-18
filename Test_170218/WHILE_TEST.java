@@ -28,6 +28,8 @@ public class WHILE_TEST {
 
         }
 
+        System.out.println("화이팅");
+
         //공부 말고 숙제요 숙제!!
 
 
